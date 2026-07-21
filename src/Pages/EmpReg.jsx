@@ -105,7 +105,7 @@ const EmpReg = ({ setIsSignup }) => {
                     </form>
                 </div>
             </div>
-            <div className='  lg:w-1/2 bg-cover rounded bg-center ' style={{ backgroundImage: "url('/src/assets/signup.png')" }}>
+            <div className='  lg:w-1/2 bg-cover rounded bg-center ' style={{ backgroundImage: "url('./signup.png')" }}>
             </div>
         </div>
     )

@@ -90,7 +90,7 @@ const Login = ({ handleLogin, setIsSignup }) => {
         
       </div>
       
-      <div className='  lg:w-1/2 bg-cover rounded bg-center ' style={{ backgroundImage: "url('/src/assets/login.png')" }}>
+      <div className='  lg:w-1/2 bg-cover rounded bg-center ' style={{ backgroundImage: "url('./login.png')" }}>
 
       </div>
     </div>
